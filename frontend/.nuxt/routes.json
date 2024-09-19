@@ -1,0 +1,65 @@
+[
+  {
+    "name": "forgot-password",
+    "path": "/forgot-password",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\forgot-password.vue",
+    "chunkName": "pages/forgot-password",
+    "_name": "_57924020"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_3dcbc344"
+  },
+  {
+    "name": "packages",
+    "path": "/packages",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\packages.vue",
+    "chunkName": "pages/packages",
+    "_name": "_0f435f3c"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_15d64e78"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_01695f18"
+  },
+  {
+    "name": "reset-password",
+    "path": "/reset-password",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "_name": "_107cd50e"
+  },
+  {
+    "name": "subscription-cancel",
+    "path": "/subscription/cancel",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\subscription\\\\cancel.vue",
+    "chunkName": "pages/subscription/cancel",
+    "_name": "_29768de8"
+  },
+  {
+    "name": "subscription-success",
+    "path": "/subscription/success",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\subscription\\\\success.vue",
+    "chunkName": "pages/subscription/success",
+    "_name": "_dbf1993e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\laragon\\\\www\\\\onlinevirtualemd.test\\\\source\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7424202d"
+  }
+]
